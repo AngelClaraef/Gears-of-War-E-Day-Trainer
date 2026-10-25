@@ -72,3 +72,4 @@ A: Simply close the trainer and delete the folder. No system files are modified.
   <p>Built for the community. Dominate the campaign.</p>
 </div>
  
+ 
